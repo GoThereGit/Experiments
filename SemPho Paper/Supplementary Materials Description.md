@@ -1,3 +1,3 @@
--	Sample of SemPho-Pretrain.txt presents several sample instances from SemPho-Pretrain, which are used for pretraining the semantic–phonetic model SemPhoBERT.
--	Sample of SemPho-Downstream.txt presents several sample instances from SemPho-Downstream, which are used for fine-tuning the pretrained model on two downstream tasks.
--	Sample of Character-Component Mapping Table.csv presents several sample instances from the Character-Component Mapping Table, which is used to convert semantic–phonetic compounds into their semantic and phonetic components.
+-	`Sample of SemPho-Pretrain.txt` presents several sample instances from SemPho-Pretrain, which are used for pretraining the semantic–phonetic model SemPhoBERT.
+-	`Sample of SemPho-Downstream.txt` presents several sample instances from SemPho-Downstream, which are used for fine-tuning the pretrained model on two downstream tasks.
+-	`Sample of Character-Component` Mapping Table.csv presents several sample instances from the Character-Component Mapping Table, which is used to convert semantic–phonetic compounds into their semantic and phonetic components.
